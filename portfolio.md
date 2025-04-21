@@ -10,23 +10,21 @@
 
 ## Hard skills
 
-1. **SQL** — опыт работы с базами данных, написание запросов (DBeaver, Postgres)
+1. [**SQL**](https://github.com/Olysechka02/Portfolio/blob/main/SQL/примеры%20запросов%20на%20sql.sql) — опыт работы с базами данных, написание запросов (DBeaver, Postgres)
 
-2. **Python** — использую для анализа данных (Pandas, NumPy, Matplotlib), по REST API получаю информацию
+2. [**Python**](https://github.com/Olysechka02/Portfolio/blob/main/python/Примеры%20скриптов%20на%20python.py) — использую для анализа данных (Pandas, NumPy, Matplotlib), по REST API получаю информацию
 
-3. **DataLens** — Создаю дашборды, чарты, визуализации данных под запрос
+3. [**DataLens**](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Примеры%20визуализаций%20в%20Datalens.md) — Создаю дашборды, чарты, визуализации данных под запрос
 
 4. **Управление проектами** — Подготовка ТЗ для разработчика, планирование сроков реализации, регламентирование процессов
 
-5. **Git** — использование Git для контроля версий
+5. **Git** — использую Git для контроля версий
 
 6. **Опыт работы в системах:** ЯндексМетрика, Calltouch, Telegram ADS, VK реклама, AMOcrm, Битрикс24, ЯндексБизнес, ЯндексДирект, Elama, ПромоСтраницы, Smartis, Figma
 
 
 ## Образование и курсы
 Пройденные курсы:
-1. Сертификация по Datalens
-2. Сертификация по Метрике
-3. Курс по SQL
-
-[Перейти на Google](https://www.google.com)
+1. [Сертификация по Datalens](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/391580227_ycloud-datalens_Олеся_Костырина.pdf)
+2. [Сертификация по Метрике](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Сертификат%20по%20Метрике%20Костырина%20Олеся.pdf)
+3. [Курс по SQL](https://github.com/Olysechka02/Portfolio/blob/main/SQL/certificate-learnDB.pdf)
