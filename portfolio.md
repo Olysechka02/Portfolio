@@ -28,4 +28,4 @@
 1. [Сертификация по Datalens](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/391580227_ycloud-datalens_Олеся_Костырина.pdf)
 2. [Сертификация по Метрике](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Сертификат%20по%20Метрике%20Костырина%20Олеся.pdf)
 3. [Курс по SQL](https://github.com/Olysechka02/Portfolio/blob/main/SQL/certificate-learnDB.pdf)
-4. [Интенсив по A/B тестированию]([https://github.com/Olysechka02/Portfolio/blob/main/SQL/certificate-learnDB.pdf](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/AB%20интенсив.pdf))
+4. [Интенсив по A/B тестированию]([https://github.com/Olysechka02/Portfolio/blob/main/SQL/certificate-learnDB.pdf](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/AB%20интенсив.pdf)
