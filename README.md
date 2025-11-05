@@ -22,11 +22,14 @@
 Пройденные курсы:
 1. ML - ??
 
+Высшее образование:
+1. Неоконченное высшее: "Техносферная безопасность" в БГТУ "ВОЕНМЕХ" им. Д.Ф. Устинова
+
 ## Кейсы
 
-1. [**Создание дашборда для отдела PR**](https://github.com/Olysechka02/Portfolio/blob/main/SQL/примеры%20запросов%20на%20sql.sql)
+1. [**Создание дашборда для отдела Digital**](https://github.com/Olysechka02/Portfolio/blob/main/python/Примеры%20скриптов%20на%20python.py)
 
-2. [**Создание дашборда для отдела Digital**](https://github.com/Olysechka02/Portfolio/blob/main/python/Примеры%20скриптов%20на%20python.py)
+2. [**Создание дашборда для отдела PR**](https://github.com/Olysechka02/Portfolio/blob/main/SQL/примеры%20запросов%20на%20sql.sql)
 
 3. [**AI ассистент для банковской сферы**](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Примеры%20визуализаций%20в%20Datalens.md) — Создаю дашборды, чарты, визуализации данных под запрос
 
