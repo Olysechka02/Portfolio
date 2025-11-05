@@ -40,7 +40,9 @@ Python, R, Google Sheets, API, Git, PostgreSQL, SQL, Yandex DataLens
     - Презентовала результаты
 
 ## 5. На основе витрин данных в БД создала дашборд по всем проектам (визуализация была на мне):
-*картинки*
+![Таблица с индикаторами](https://github.com/Olysechka02/Portfolio/blob/main/Материалы/Таблица%20с%20индикаторами.jpg)
+![уц лиды по источникам](https://github.com/Olysechka02/Portfolio/blob/main/Материалы/уц%20лиды%20по%20исотчникам.jpg)
+![графики](https://github.com/Olysechka02/Portfolio/blob/main/Материалы/графики.jpg)
 
 ## 6. Обучила отдел смотреть информацию в Дашборде + написала инструкции по работе с ними
 *пример инструкции*
