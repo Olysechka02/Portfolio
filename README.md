@@ -10,10 +10,10 @@
 
 ## Образование и курсы
 Сертификация:
-1. [Сертификация по Datalens](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/391580227_ycloud-datalens_Олеся_Костырина.pdf)
-2. [Сертификация по Метрике](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Сертификат%20по%20Метрике%20Костырина%20Олеся.pdf)
-3. [Курс по SQL](https://github.com/Olysechka02/Portfolio/blob/main/SQL/certificate-learnDB.pdf)
-4. [Интенсив по A/B тестированию](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/AB%20интенсив.pdf)
+1. [Сертификация по Datalens](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/391580227_ycloud-datalens_Олеся_Костырина.pdf)
+2. [Сертификация по Метрике](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/Сертификат%20по%20Метрике%20Костырина%20Олеся.pdf)
+3. [Курс по SQL](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/certificate-learnDB.pdf)
+4. [Интенсив по A/B тестированию](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/AB%20интенсив.pdf)
 
 Участие в тематических мероприятиях:
 1. Хакатон "AI for Finance Hack"
@@ -27,7 +27,7 @@
 
 ## Кейсы
 
-1. [**Создание дашборда для отдела Digital**](https://github.com/Olysechka02/Portfolio/blob/main/python/Примеры%20скриптов%20на%20python.py)
+1. [**Создание дашборда для отдела Digital**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/Создание%20дашборда%20для%20Digital%20отдела)
 
 2. [**Создание дашборда для отдела PR**](https://github.com/Olysechka02/Portfolio/blob/main/SQL/примеры%20запросов%20на%20sql.sql)
 
