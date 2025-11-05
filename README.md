@@ -16,8 +16,8 @@
 4. [Интенсив по A/B тестированию](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/AB%20интенсив.pdf)
 
 Участие в тематических мероприятиях:
-5. Хакатон "AI for Finance Hack"
-6. AI Boostcamp
+1. Хакатон "AI for Finance Hack"
+2. AI Boostcamp
 
 Пройденные курсы:
 1. ML - ??
