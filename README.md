@@ -26,7 +26,7 @@
 
 ## Кейсы
 
-1. [**Создание дашборда для отдела Digital**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/Автоматизация%20отчетности%20Digital-отдела.md)
+1. [**Автоматизация отчетности Digital-отдела.md**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/Автоматизация%20отчетности%20Digital-отдела.md)
 
 2. [**Создание дашборда для отдела PR**](https://github.com/Olysechka02/Portfolio/blob/main/SQL/примеры%20запросов%20на%20sql.sql)
 
