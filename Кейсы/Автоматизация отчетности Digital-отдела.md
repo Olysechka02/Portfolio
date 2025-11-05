@@ -29,6 +29,7 @@ Python, R, Google Sheets, API, Git, PostgreSQL, SQL, Yandex DataLens
 ![Архитектурное решение](https://github.com/Olysechka02/Portfolio/blob/main/Материалы/image.png?raw=true)
 
 ## 3. Унифицировала систему UTM-меток и внедрила реестр UTM-меток для корректного ведения статистики 
+![реестр](https://github.com/Olysechka02/Portfolio/blob/main/Материалы/реестр%20utm.png)
 
 ## 4. Вела проект
     - Составила план реализации со сроками
