@@ -28,11 +28,11 @@
 
 ## Кейсы
 
-1. [**Автоматизация отчетности Digital-отдела.md**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/Автоматизация%20отчетности%20Digital-отдела.md)
+1. [**Автоматизация отчетности Digital-отдела**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/Автоматизация%20отчетности%20Digital-отдела.md)
 
 2. [**Создание дашборда для отдела PR**](https://github.com/Olysechka02/Portfolio/blob/main/SQL/примеры%20запросов%20на%20sql.sql)
 
-3. [**AI ассистент для банковской сферы**](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Примеры%20визуализаций%20в%20Datalens.md) — Создаю дашборды, чарты, визуализации данных под запрос
+3. [**AI ассистент для банковской сферы**](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Примеры%20визуализаций%20в%20Datalens.md)
 
 4. **Обучение модели для выявления поломок дрона по акустическим параметрам** 
 
