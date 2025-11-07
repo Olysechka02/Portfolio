@@ -17,11 +17,12 @@
 4. [Интенсив по A/B тестированию](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/AB%20интенсив.pdf)
 
 Участие в тематических мероприятиях:
-1. Хакатон "AI for Finance Hack"
-2. AI Boostcamp
+1. [Хакатон "AI for Finance Hack"](https://changellenge.com/championships/aiforfinancehack/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02) - сейчас участвую
+2. [AI Boostcamp](https://ai.boostcamp.k2neuro.tech/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)- сейчас участвую
 
-Пройденные курсы:
-1. ML - ??
+Курсы:
+1. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - прохожу сейчас
+2. [Основы Python](https://education.yandex.ru/handbook/python) - пройдено
 
 Высшее образование:
 1. Неоконченное высшее: "Техносферная безопасность" в БГТУ "ВОЕНМЕХ" им. Д.Ф. Устинова
@@ -35,10 +36,6 @@
 3. [**AI ассистент для банковской сферы**](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Примеры%20визуализаций%20в%20Datalens.md)
 
 4. **Обучение модели для выявления поломок дрона по акустическим параметрам** 
-
-5. **Описание процесса по BPMN or Автоматическая прослушка звонков**
-
-6. **Проведение A/B теста в....**
 
 
 
