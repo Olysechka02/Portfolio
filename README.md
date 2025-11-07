@@ -31,11 +31,11 @@
 
 1. [**Автоматизация отчетности Digital-отдела**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/Автоматизация%20отчетности%20Digital-отдела.md)
 
-2. [**Создание дашборда для отдела PR**](https://github.com/Olysechka02/Portfolio/blob/main/SQL/примеры%20запросов%20на%20sql.sql)
+2. [**Создание дашборда для отдела PR**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/Создание%20дашборда%20для%20отдела%20PR.md)
 
-3. [**AI ассистент для банковской сферы**](https://github.com/Olysechka02/Portfolio/blob/main/Datalens/Примеры%20визуализаций%20в%20Datalens.md)
+3. [**AI ассистент для банковской сферы**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/AI%20ассистент.md)
 
-4. **Обучение модели для выявления поломок дрона по акустическим параметрам** 
+4. [**Обучение модели для выявления поломок дрона по акустическим параметрам**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/ML.md)
 
 
 
