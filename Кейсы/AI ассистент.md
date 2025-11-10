@@ -34,7 +34,7 @@ Python, LLM, RAG, API
         1. Эмбенддинг вопроса;
         2. Поиск релевантных чанков;
         3. Формирование контекста;
-        ![часть скрипта](https://github.com/Olysechka02/Portfolio/blob/main/Материалы/ближдок.png)<br>
+        <br>![часть скрипта](https://github.com/Olysechka02/Portfolio/blob/main/Материалы/ближдок.png)<br>
         4. Создание промта;
         5. Отправка в модель;
         6. Сохранение результата;
