@@ -28,7 +28,7 @@
 4. [Интенсив по A/B тестированию](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/AB%20интенсив.pdf)
 
 Участие в тематических мероприятиях:
-1. [Хакатон "AI for Finance Hack"](https://changellenge.com/championships/aiforfinancehack/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02) - сейчас участвую
+1. [Хакатон "AI for Finance Hack"](https://changellenge.com/championships/aiforfinancehack/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)
 2. [AI Boostcamp](https://ai.boostcamp.k2neuro.tech/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)- сейчас участвую
 
 Курсы:
