@@ -17,7 +17,7 @@
 
 3. [**AI ассистент для банковской сферы**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/AI%20ассистент.md)
 
-4. [**Обучение модели для выявления поломок дрона по акустическим параметрам**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/ML.md)
+4. [**Обучение модели для выявления поломок дрона по акустическим параметрам**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/ML.md) (На стадии разработки)
 
 
 ## Образование и курсы
