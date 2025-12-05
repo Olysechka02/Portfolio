@@ -28,6 +28,7 @@
 Участие в хакатонах и других тематических мероприятиях:
 1. [Хакатон "AI for Finance Hack"](https://changellenge.com/championships/aiforfinancehack/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)
 2. [AI Boostcamp](https://ai.boostcamp.k2neuro.tech/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)- сейчас участвую
+3. [Альфа-Будущее Хакатон / Настройка RAG для вопросов и ответов](https://alfabank.ru/alfafuture/event/hack/)
 
 Курсы:
 1. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - пройдено
@@ -35,10 +36,3 @@
 
 Высшее образование:
 1. Неоконченное высшее: "Техносферная безопасность" в БГТУ "ВОЕНМЕХ" им. Д.Ф. Устинова
-
-
-## Кейсы в работе
-
-4. [**Обучение модели для выявления поломок дрона по акустическим параметрам**](https://github.com/Olysechka02/Portfolio/blob/main/Кейсы/ML.md)
-
-5. **Создание прототипа AI ассисента**
