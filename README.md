@@ -25,12 +25,12 @@
 3. [Курс по SQL](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/certificate-learnDB.pdf)
 4. [Интенсив по A/B тестированию](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/AB%20интенсив.pdf)
 
-Участие в тематических мероприятиях:
-1. [Хакатон "AI for Finance Hack"](https://changellenge.com/championships/aiforfinancehack/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02) - сейчас участвую
+Участие в хакатонах и других тематических мероприятиях:
+1. [Хакатон "AI for Finance Hack"](https://changellenge.com/championships/aiforfinancehack/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)
 2. [AI Boostcamp](https://ai.boostcamp.k2neuro.tech/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)- сейчас участвую
 
 Курсы:
-1. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - прохожу сейчас
+1. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - пройдено
 2. [Основы Python](https://education.yandex.ru/handbook/python) - пройдено
 
 Высшее образование:
