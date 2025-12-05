@@ -19,20 +19,20 @@
 
 
 ## Образование и курсы
-Сертификация:
+### Сертификация:
 1. [Сертификация по Datalens](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/391580227_ycloud-datalens_Олеся_Костырина.pdf)
 2. [Сертификация по Метрике](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/Сертификат%20по%20Метрике%20Костырина%20Олеся.pdf)
 3. [Курс по SQL](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/certificate-learnDB.pdf)
 4. [Интенсив по A/B тестированию](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/AB%20интенсив.pdf)
 
-Участие в хакатонах и других тематических мероприятиях:
+### Участие в хакатонах и других тематических мероприятиях:
 1. [Хакатон "AI for Finance Hack"](https://changellenge.com/championships/aiforfinancehack/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)
 2. [AI Boostcamp](https://ai.boostcamp.k2neuro.tech/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)- сейчас участвую
 3. [Альфа-Будущее Хакатон / Настройка RAG для вопросов и ответов](https://alfabank.ru/alfafuture/event/hack/)
 
-Курсы:
+### Курсы:
 1. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - пройдено
 2. [Основы Python](https://education.yandex.ru/handbook/python) - пройдено
 
-Высшее образование:
+### Высшее образование:
 1. Неоконченное высшее: "Техносферная безопасность" в БГТУ "ВОЕНМЕХ" им. Д.Ф. Устинова
