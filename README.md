@@ -27,7 +27,7 @@
 
 ### Участие в хакатонах и других тематических мероприятиях:
 1. [Хакатон "AI for Finance Hack"](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/Диплом%20AI%20for%20Finance%20Hack.pdf)
-2. [AI Boostcamp](https://ai.boostcamp.k2neuro.tech/?utm_source=githab&utm_medium=refferal&utm_campaign=olysechka02)
+2. [AI Boostcamp](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/Костырина%20Олеся%20AI%20boostcamp.pdf)
 3. [Альфа-Будущее Хакатон / Настройка RAG для вопросов и ответов](https://github.com/Olysechka02/Portfolio/blob/main/Сертификаты/Диплом%20Альфа.pdf)
 
 ### Курсы:
